@@ -1,0 +1,16 @@
+# s='hello world'
+# print(s.upper())
+# print(s.lower())
+# print(s.count('o'))
+# print(s.find('o'))
+# print(s.capitalize())
+# print(s.center(20,'z'))
+# print('hello\thi')
+s1='hellllo'
+print(s1.isalnum())
+print(s1.isalpha())
+print(s1.islower())
+print(s1.isspace())
+print(s1.istitle())
+print(s1[-1]=='o')
+print(s1.split('l'))
